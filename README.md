@@ -1,2 +1,2 @@
-# bytefun
+# bytefun public site
 ByteFun
